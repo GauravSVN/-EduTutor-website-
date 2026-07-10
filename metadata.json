@@ -1,0 +1,6 @@
+{
+  "name": "Home Tutor Platform",
+  "description": "An enterprise-grade commercial Home Tutor Marketplace featuring high-end dashboards for Students, Tutors, and Admins, styled with premium glassmorphism, featuring live mock booking, interactive schedules, simulated payments, and robust tutor matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
